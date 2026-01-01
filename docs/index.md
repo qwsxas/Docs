@@ -3,23 +3,23 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "🔊WEBPIC/TTS 文档🌆"
+  text: "WEBPIC/TTS DOCS"
+  tagline: 在线图床/TTS服务
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Markdown 示例
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: API 示例
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: ⚡快速
+    details: 采用Cloudflare CDN加速☁
+  - title: ❤好用
+    details: 🌐一键上传，无需干预
+  - title: 💲免费
+    details: 公益网站，永久免费💱
 ---
 
